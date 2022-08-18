@@ -1,0 +1,15 @@
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\bin\Debug\net6.0\classesEx1.exe
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\bin\Debug\net6.0\classesEx1.deps.json
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\bin\Debug\net6.0\classesEx1.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\bin\Debug\net6.0\classesEx1.dll
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\bin\Debug\net6.0\classesEx1.pdb
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.dll
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\refint\classesEx1.dll
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.pdb
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\classesEx1.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\classesEx1\classesEx1\classesEx1\obj\Debug\net6.0\ref\classesEx1.dll
